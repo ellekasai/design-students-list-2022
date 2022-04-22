@@ -7,4 +7,4 @@ No work
 ## Hobby
 Watching drama and anime
 ## Where you're from
-Chiba
+Chiba, Japan
