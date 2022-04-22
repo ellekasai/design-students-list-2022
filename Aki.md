@@ -8,3 +8,6 @@ I graduated Centennial secondary school.
 
 ##Hobby
 Shopping, Go out with my friends
+
+##Where are you from
+Saitama,Japan
