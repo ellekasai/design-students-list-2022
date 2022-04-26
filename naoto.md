@@ -9,6 +9,7 @@ Learned basic web development
 
 ## Hobby
 To find gadgets
+To take a nature walk
 
 ## Where you're from
 Chiba, Japan
